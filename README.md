@@ -1,4 +1,4 @@
-# simple-C-MySql-TCP-Proxy-Server
+# simple-C++-MySql-TCP-Proxy-Server
 
 Overview
 
