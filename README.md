@@ -2,7 +2,7 @@
 
 Overview
 
-This is a high-performance asynchronous TCP proxy written in C++ using Boost.Asio. It forwards MySQL client connections to a real MySQL server and logs all SQL queries.
+This is an asynchronous TCP proxy written in C++ using Boost.Asio. It forwards MySQL client connections to a real MySQL server and logs all SQL queries.
 
     Chosen DBMS: MySQL
 
